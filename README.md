@@ -1,2 +1,2 @@
 # google-colab
-this is a test repo
+this repo was generated as part of our introduction in HHA_507_2023 
